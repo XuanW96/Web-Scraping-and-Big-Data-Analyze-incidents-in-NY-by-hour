@@ -5,3 +5,4 @@
 
 
 #### Analyze incidents in NY by hour 
+![incidents_by_hour](https://user-images.githubusercontent.com/43478394/62073723-47c72d80-b20f-11e9-8788-fd60cc4f567a.gif)
